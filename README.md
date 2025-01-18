@@ -55,6 +55,7 @@ Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://gith
 - Discord: [https://discord.gg/hUzF3kQKFW](https://discord.gg/hUzF3kQKFW)
 
 ## Ucapan Terima Kasih
+![](https://media4.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif?cid=6c09b952odurgb7iclkvxa1km6e4zfjvvknktsjkmzqcx3oy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 - Scholar01 [https://github.com/Scholar01](https://github.com/Scholar01)
 - gizemgizg [https://github.com/gizemgizg](https://github.com/gizemgizg)
@@ -62,4 +63,11 @@ Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://gith
 - modnet-entry: [https://github.com/RimoChan/modnet-entry](https://github.com/RimoChan/modnet-entry)
 - MODNet: [https://github.com/ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
 - Ezsynth: [https://github.com/Trentonom0r3/Ezsynth](https://github.com/Trentonom0r3/Ezsynth)
+
+## Kontak
+
+Jika Anda memiliki pertanyaan atau saran, silakan buka issue baru di repository ini.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157517798)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.septiawan__/)
 
