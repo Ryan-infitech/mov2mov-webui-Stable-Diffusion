@@ -5,7 +5,7 @@ ini adalah plugin mov2mov untuk stable diffusion [ 18/01/2025 ] work
 ## Mov2mov
 Automatic1111/stable-diffusion-webui.
 
-![img.png](images/2.jpg)
+![img.png](./images/mov2mov.png)
 
 ### Fitur:
 - Memproses frame langsung dari video
@@ -23,9 +23,8 @@ Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://gith
 - [Daftar Isi](#daftar-isi)
   - [Peraturan Penggunaan](#peraturan-penggunaan)
   - [Instalasi](#instalasi)
-  - [Catatan Perubahan](#catatan-perubahan)
-  - [Petunjuk](#petunjuk)
   - [Ucapan Terima Kasih](#ucapan-terima-kasih)
+  - [Kontak](#kontak)
 
 ## Peraturan Penggunaan
 
@@ -42,17 +41,9 @@ Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://gith
 4. Klik Install.
 5. Restart WebUI.
 
-## Catatan Perubahan
 
-[...]()
 
-## Petunjuk
-
-- Tutorial video:
-  - [https://www.bilibili.com/video/BV1Mo4y1a7DF](https://www.bilibili.com/video/BV1Mo4y1a7DF)
-  - [https://www.bilibili.com/video/BV1rY4y1C7Q5](https://www.bilibili.com/video/BV1rY4y1C7Q5)
-- Kanal QQ: [https://pd.qq.com/s/akxpjjsgd](https://pd.qq.com/s/akxpjjsgd)
-- Discord: [https://discord.gg/hUzF3kQKFW](https://discord.gg/hUzF3kQKFW)
+![](./images/mov2mov.gif)
 
 ## Ucapan Terima Kasih
 ![](https://media4.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif?cid=6c09b952odurgb7iclkvxa1km6e4zfjvvknktsjkmzqcx3oy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
@@ -63,6 +54,8 @@ Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://gith
 - modnet-entry: [https://github.com/RimoChan/modnet-entry](https://github.com/RimoChan/modnet-entry)
 - MODNet: [https://github.com/ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
 - Ezsynth: [https://github.com/Trentonom0r3/Ezsynth](https://github.com/Trentonom0r3/Ezsynth)
+
+<br>
 
 ## Kontak
 
