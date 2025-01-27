@@ -13,7 +13,7 @@ This is a mov2mov plugin for stable diffusion still [WORK]()
 ## Mov2mov
 Automatic1111/stable-diffusion-webui.
 
-![img.png](images/2.jpg)
+![img.png](./images/mov2mov.png)
 
 ### Features:
 - Process frames directly from video
