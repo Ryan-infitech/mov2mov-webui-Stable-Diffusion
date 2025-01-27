@@ -1,60 +1,68 @@
-# mov2mov-webui-Stable-Diffusion
-ini adalah plugin mov2mov untuk stable diffusion [ 18/01/2025 ] work
+<div align="right">
 
+<a href="README"><img src="https://flagcdn.com/w40/gb.png" width="25"></a> |
+<a href="README-ID"><img src="https://flagcdn.com/w40/id.png" width="20"></a>
+
+</div>
+
+<br>
+
+# mov2mov-webui-Stable-Diffusion
+This is a mov2mov plugin for stable diffusion still [WORK]()
 
 ## Mov2mov
 Automatic1111/stable-diffusion-webui.
 
 ![img.png](images/2.jpg)
 
-### Fitur:
-- Memproses frame langsung dari video
-- Mengemas ulang menjadi video setelah pemrosesan
-- Pengeditan Video (beta)
-  - Secara signifikan mengurangi flicker video dengan penggabungan keyframe!
-  - Anda dapat menyesuaikan pemilihan keyframe atau menghasilkan keyframe secara otomatis.
-  - Tag keyframe dengan backpropel
-  - Saat ini hanya tersedia untuk Windows; jika sistem Anda tidak mendukung, Anda dapat mematikan tab ini.
+### Features:
+- Process frames directly from video
+- Repackage into video after processing
+- Video Editing (beta)
+  - Significantly reduces video flicker with keyframe merging!
+  - You can adjust keyframe selection or generate keyframes automatically.
+  - Tag keyframes with backpropagation
+  - Currently only available for Windows; if your system doesn't support it, you can disable this tab.
 
-Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://github.com/Scholar01/sd-webui-bg-mask) 
+Additionally, Mov2mov will work better with the [bg-mask](https://github.com/Scholar01/sd-webui-bg-mask) plugin
 
-# Daftar Isi
+# Table of Contents
 
-- [Daftar Isi](#daftar-isi)
-  - [Peraturan Penggunaan](#peraturan-penggunaan)
-  - [Instalasi](#instalasi)
-  - [Catatan Perubahan](#catatan-perubahan)
-  - [Petunjuk](#petunjuk)
-  - [Ucapan Terima Kasih](#ucapan-terima-kasih)
+- [Table of Contents](#table-of-contents)
+  - [Usage Rules](#usage-rules)
+  - [Installation](#installation)
+  - [Changelog](#changelog)
+  - [Instructions](#instructions)
+  - [Acknowledgments](#acknowledgments)
 
-## Peraturan Penggunaan
+## Usage Rules
 
-1. Silakan selesaikan sendiri masalah otorisasi untuk sumber video. Semua masalah yang timbul karena penggunaan video tidak berizin harus ditanggung oleh pengguna. Hal ini tidak ada hubungannya dengan Mov2mov!
-2. Semua video yang dibuat dengan Mov2mov dan diterbitkan di platform video harus secara jelas mencantumkan sumber video yang digunakan untuk konversi dalam deskripsinya. Misalnya, jika Anda menggunakan video orang lain dan mengonversinya melalui AI, Anda harus menyediakan tautan yang jelas ke video asli; jika Anda menggunakan video milik sendiri, Anda juga harus mencantumkannya dalam deskripsi.
-3. Semua masalah hak cipta yang disebabkan oleh sumber input harus ditanggung oleh pengguna. Perhatikan bahwa banyak video secara eksplisit menyatakan bahwa mereka tidak dapat direproduksi atau disalin!
-4. Harap patuhi hukum dan peraturan nasional dengan ketat untuk memastikan bahwa konten legal dan sesuai. Semua tanggung jawab hukum yang disebabkan oleh penggunaan plugin ini harus ditanggung oleh pengguna. Hal ini tidak ada hubungannya dengan Mov2mov!
+1. Please resolve video authorization issues on your own. All problems arising from unauthorized video usage must be borne by the user. This has nothing to do with Mov2mov!
+2. All videos created with Mov2mov and published on video platforms must clearly cite the source video used for conversion in their description. For example, if you use someone else's video and convert it through AI, you must provide a clear link to the original video; if you use your own video, you must also state this in the description.
+3. All copyright issues caused by input sources must be borne by the user. Note that many videos explicitly state that they cannot be reproduced or copied!
+4. Please strictly comply with national laws and regulations to ensure content is legal and appropriate. All legal responsibilities caused by using this plugin must be borne by the user. This has nothing to do with Mov2mov!
 
-## Instalasi
+## Installation
 
-1. Buka tab Extensions.
-2. Klik pada Install from URL.
-3. Masukkan URL repositori git untuk ekstensi tersebut.
-4. Klik Install.
+1. Open the Extensions tab.
+2. Click on Install from URL.
+3. Enter the git repository URL for the extension.
+4. Click Install.
 5. Restart WebUI.
 
-## Catatan Perubahan
+## Changelog
 
 [...]()
 
-## Petunjuk
+## Instructions
 
-- Tutorial video:
+- Video tutorials:
   - [https://www.bilibili.com/video/BV1Mo4y1a7DF](https://www.bilibili.com/video/BV1Mo4y1a7DF)
   - [https://www.bilibili.com/video/BV1rY4y1C7Q5](https://www.bilibili.com/video/BV1rY4y1C7Q5)
-- Kanal QQ: [https://pd.qq.com/s/akxpjjsgd](https://pd.qq.com/s/akxpjjsgd)
+- QQ Channel: [https://pd.qq.com/s/akxpjjsgd](https://pd.qq.com/s/akxpjjsgd)
 - Discord: [https://discord.gg/hUzF3kQKFW](https://discord.gg/hUzF3kQKFW)
 
-## Ucapan Terima Kasih
+## Acknowledgments
 ![](https://media4.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif?cid=6c09b952odurgb7iclkvxa1km6e4zfjvvknktsjkmzqcx3oy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 - Scholar01 [https://github.com/Scholar01](https://github.com/Scholar01)
@@ -64,10 +72,9 @@ Selain itu, Mov2mov akan bekerja lebih baik dengan plugin [bg-mask](https://gith
 - MODNet: [https://github.com/ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
 - Ezsynth: [https://github.com/Trentonom0r3/Ezsynth](https://github.com/Trentonom0r3/Ezsynth)
 
-## Kontak
+## Contact
 
-Jika Anda memiliki pertanyaan atau saran, silakan buka issue baru di repository ini.
+If you have any questions or suggestions, please open a new issue in this repository.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157517798)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.septiawan__/)
-
